@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "0f22",
+      "department": "it",
+      "name": "Arshad",
+      "mobile": "+918421869545",
+      "email": "arshadalikaldane@gmail.com",
+      "doj": "2024-01-11T18:30:00.000Z",
+      "gender": "male",
+      "salary": "25000",
+      "userCode": "123",
+      "status": true
+    },
+    {
+      "id": "30ef",
+      "department": "management",
+      "name": "Waleed",
+      "mobile": "8877554433",
+      "email": "waleed@manager.com",
+      "doj": "2024-01-11T18:30:00.000Z",
+      "gender": "male",
+      "salary": "50000",
+      "userCode": "999",
+      "status": ""
+    },
+    {
+      "department": "sales",
+      "name": "Prag",
+      "mobile": "9957234823",
+      "email": "prag@sales.com",
+      "doj": "2023-12-31T18:30:00.000Z",
+      "gender": "male",
+      "salary": "15000",
+      "userCode": "987",
+      "status": true,
+      "id": "8d23"
+    },
+    {
+      "id": "6053",
+      "department": "hr",
+      "name": "asd",
+      "mobile": "123",
+      "email": "as",
+      "doj": "2024-01-18T18:30:00.000Z",
+      "gender": "male",
+      "salary": "123",
+      "userCode": "123",
+      "status": true
+    },
+    {
+      "id": "170d",
+      "department": "it",
+      "name": "ads",
+      "mobile": "asd",
+      "email": "asd",
+      "doj": "2024-01-17T18:30:00.000Z",
+      "gender": "female",
+      "salary": "123",
+      "userCode": "123",
+      "status": false
+    }
+  ]
+}
